@@ -1,0 +1,6 @@
+Ask user for a number to FizzBuzz up to, use a prompt
+Loop from 1 to the input value
+If the current number is divisible by 3, then print "Fizz"
+If the current number is divisible by 5, then print "Buzz"
+If the current number if divisible by 3 && 5, then print "FizzBuzz"
+else print the current number
